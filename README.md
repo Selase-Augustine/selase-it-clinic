@@ -1,2 +1,2 @@
 # selase-it-clinic
-Reliable IT Repairs &amp; Technical Services
+Portfolio project for Augustine Selase Adotri for the Talent Mobility Program
